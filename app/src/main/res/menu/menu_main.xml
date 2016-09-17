@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mycompany.sportsmantracker.MainActivity">
+    <item
+        android:id="@+id/search_button"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/layer_button"
+        android:icon="@drawable/ic_layers"
+        android:title="Layer"
+        app:showAsAction="ifRoom" />
+</menu>

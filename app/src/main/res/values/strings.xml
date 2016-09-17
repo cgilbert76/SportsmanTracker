@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sportsman Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="access_token">pk.eyJ1IjoiY2dpbGJlcnQ3NiIsImEiOiJjaXQ0Z3p4bWcwMGFzNXBxeGRhZGVhejZ5In0.Dv7MQMzbxY_fgGXO3BGNJQ</string>
+</resources>
